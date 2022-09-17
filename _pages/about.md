@@ -14,7 +14,7 @@ My research focuses on the fields of reinforcement learning and robotics. Specif
 
 Previously, I received my B.S. (*summa cum laude*) at Cornell, working on computer vision. Before MIT, I received guidance from wonderful advisors: <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/" target="_blank">Prof. Sebastian Scherer</a> at CMU-RI, <a href="https://home.ttic.edu/~mwalter/" target="_blank">Prof. Matthew R. Walter</a> at TTIC, and <a href="https://www.nus.edu.sg/about/management/chen-tsuhan" target="_blank">Prof. Tsuhan Chen</a> at Cornell.
 
-&#129302; Please refer to my <a href="" target="_blank">CV</a> for more details about my education and experiences.
+&#129302; Please refer to my <a href="https://github.com/dkkim93/dkkim93.github.io/blob/master/files/Kim_DongKi_Resume.pdf" target="_blank">CV</a> for more details about my education and experiences.
 
 Selected News
 ======
