@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Dong-Ki's Academic Website"
 title_separator          : "-"
 name                     : &name "Dong-Ki Kim"
 description              : &description "personal description"
