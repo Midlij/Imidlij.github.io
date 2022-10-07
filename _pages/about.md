@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at MIT advised by <a href="https://scholar.google.com/citations?user=gX7rSCcAAAAJ&hl=en" target="_blank">Prof. Jonathan P. How</a>. I am fortunate to have <a href="https://www.jakobfoerster.com/" target="_blank">Prof. Jakob N. Foerster</a> at Oxford and <a href="http://people.csail.mit.edu/pulkitag/" target="_blank">Prof. Pulkit Agrawal</a> at MIT as my PhD committee members.
+<!-- I am a PhD student at MIT advised by <a href="https://scholar.google.com/citations?user=gX7rSCcAAAAJ&hl=en" target="_blank">Prof. Jonathan P. How</a>. I am fortunate to have <a href="https://www.jakobfoerster.com/" target="_blank">Prof. Jakob N. Foerster</a> at Oxford and <a href="http://people.csail.mit.edu/pulkitag/" target="_blank">Prof. Pulkit Agrawal</a> at MIT as my PhD committee members.
 
-My research focuses on the fields of reinforcement learning and robotics. Specifically, I am interested in multiagent reinforcement learning (MARL) for learning to interact with other simultaneously learning agents. I am also interested in other related machine learning topics, such as meta-learning for enabling a robot to adapt fast to unseen situations, hierarchical learning for solving the delayed credit assignment issue, and safe learning for learning a policy without violating safety constraints.
+<!-- My research focuses on the fields of reinforcement learning and robotics. Specifically, I am interested in multiagent reinforcement learning (MARL) for learning to interact with other simultaneously learning agents. I am also interested in other related machine learning topics, such as meta-learning for enabling a robot to adapt fast to unseen situations, hierarchical learning for solving the delayed credit assignment issue, and safe learning for learning a policy without violating safety constraints.
 
 Previously, I received my B.S. (*summa cum laude*) at Cornell, working on computer vision. Before MIT, I received guidance from wonderful advisors: <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/" target="_blank">Prof. Sebastian Scherer</a> at CMU-RI, <a href="https://home.ttic.edu/~mwalter/" target="_blank">Prof. Matthew R. Walter</a> at TTIC, and <a href="https://www.nus.edu.sg/about/management/chen-tsuhan" target="_blank">Prof. Tsuhan Chen</a> at Cornell.
 
 &#129302; Please refer to my <a href="https://github.com/dkkim93/dkkim93.github.io/blob/master/files/Kim_DongKi_Resume.pdf" target="_blank">CV</a> for more details about my education and experiences.
 
-Selected News
+Selected News -->
 ======
 * <span style="color:gray">(Sep 2022)</span> Our work on <a href="https://arxiv.org/pdf/2203.03535.pdf" target="_blank">long-term MARL</a> is accepted to <a href="https://nips.cc/" target="_blank">NeurIPS 2022</a>
 * <span style="color:gray">(Jun 2022)</span> I presented our works on MARL at <a href="https://mila.quebec/en/mila/" target="_blank">MILA</a>'s MARL meeting
@@ -47,4 +47,4 @@ Publication
 * **Dong-Ki Kim**, Matthew R. Walter. Satellite Image-based Localization via Learned Embeddings. In International Conference on Robotics and Automation (ICRA), 2017. <a href="https://arxiv.org/pdf/1704.01133.pdf" target="_blank">[Paper]</a> <a href="https://www.youtube.com/watch?v=58K1-0WpGNs&ab_channel=DongKiKim" target="_blank">[Video]</a> <a href="https://developer.nvidia.com/blog/satellite-images-help-track-a-vehicle/" target="_blank">[NVIDIA News]</a>
 * **Dong-Ki Kim**, Daniel Maturana, Masashi Uenoyama, Sebastian Scherer. Season-Invariant Semantic Segmentation with A Deep Multimodal Network. In Field and Service Robotics (FSR), 2017. <a href="http://www.fsr.ethz.ch/papers/FSR_2017_paper_23.pdf" target="_blank">[Paper]</a>
 * Hang Chu, **Dong-Ki Kim**, Tsuhan Chen. You Are Here: Mimicking the Human Thinking Process in Reading Floor-Plans. In International Conference on Computer Vision (ICCV), 2015. <a href="http://chenlab.ece.cornell.edu/people/Hang/publications/Hang_ICCV15.pdf" target="_blank">[Paper]</a> <a href="https://vimeo.com/142409054" target="_blank">[Video]</a>
-* **Dong-Ki Kim**, Tsuhan Chen. Deep Neural Network for Real-Time Autonomous Indoor Navigation. Technical Report, 2015. <a href="https://arxiv.org/pdf/1511.04668.pdf" target="_blank">[Paper]</a> <a href="https://youtu.be/2Y08GRYnC3U" target="_blank">[Video]</a>
+* **Dong-Ki Kim**, Tsuhan Chen. Deep Neural Network for Real-Time Autonomous Indoor Navigation. Technical Report, 2015. <a href="https://arxiv.org/pdf/1511.04668.pdf" target="_blank">[Paper]</a> <a href="https://youtu.be/2Y08GRYnC3U" target="_blank">[Video]</a> -->
