@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+Hi, welcome to my page where I share with you my academic and research work that I have been conducting during my undergraduate studies at USC.
