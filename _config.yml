@@ -87,8 +87,8 @@ author:
   location         :
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=Yl_3akYAAAAJ&hl=en"
-  email            : "dkkim93@mit.edu"
+  googlescholar    : 
+  email            : 
   researchgate     :
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dkkim93"
+  github           : "midlij"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "dong-ki-kim-ab018843"
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
