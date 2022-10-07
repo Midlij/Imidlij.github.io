@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dong-Ki's Academic Website"
+title                    : "_"
 title_separator          : "-"
-name                     : &name "Dong-Ki Kim"
+name                     : &name "_"
 description              : &description "personal description"
-url                      : https://dkkim93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Imidlij.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dkkim93/dkkim93.github.io"
+repository               : "midlij/Imidlij.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dong-Ki Kim"
-  avatar           : "dongki.jpg"
-  bio              : "Machine Learning and Robotics PhD Student at MIT"
-  cv               : "https://github.com/dkkim93/dkkim93.github.io/blob/master/files/Kim_DongKi_Resume.pdf"
+  name             : "Khaled Alzamel"
+  avatar           : ""
+  bio              : "Electrical and Computer Engineering Student at USC"
+  cv               : "_"
   location         :
   employer         :
   pubmed           :
