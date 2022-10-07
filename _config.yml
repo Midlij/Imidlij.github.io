@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "_"
 title_separator          : "-"
 name                     : &name "_"
-description              : &description "personal description"
+description              : &description "_"
 url                      : https://Imidlij.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "midlij/Imidlij.github.io"
@@ -37,10 +37,10 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+#   path                   : "_data/comments/{options.slug}"
+#   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+#     email                : "md5"
   generatedFields:
     date:
       type               : "date"
