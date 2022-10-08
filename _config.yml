@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "_"
+title                    : "Al-Zamel's Academic Website"
 title_separator          : "-"
 name                     : &name "_"
 description              : &description "Hi, welcome to my page where I share with you my academic and research work that I have been conducting during my undergraduate studies at USC."
