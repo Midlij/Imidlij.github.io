@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Al-Zamel's Academic Website"
 title_separator          : "-"
-name                     : &name "_"
+name                     : &name "Khaled Al-Zamel"
 description              : &description "Hi, welcome to my page where I share with you my academic and research work that I have been conducting during my undergraduate studies at USC."
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : https://Imidlij.github.io # the subpath of your site, e.g. "/blog"
