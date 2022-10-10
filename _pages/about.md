@@ -7,5 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an undergraduate student at USC advised by Prof. Paul Bogdan. I am fortunate to be working with Dr. Bogdan in the Cyber Physical Systems Group.
 
-Hi, welcome to my page where I share with you my academic and research work that I have been conducting during my undergraduate studies at USC.
+My research interests lie in the fields of control systems and machine learning. Specifically, I am interested in designing and controlling autonomous systems to develop decision-making under uncertainty. 
+
+🤖 Please refer to my CV for more details about my education and research experiences.
