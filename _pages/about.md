@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /https://github.com/Midlij/Imidlij.github.io/blob/96efd0fe207a0f926fc002a5fd41924c0d639063/files/KM.jpg
 # title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
