@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an undergraduate student at USC advised by [Prof. Paul Bogdan](https://cps.usc.edu/). I am fortunate to be working with Dr. Bogdan at the [Cyber Physical Systems Group](https://cps.usc.edu/).
+I am an undergraduate student at USC advised by [Prof. Paul Bogdan](https://cps.usc.edu/). I am fortunate to be working with Dr. Bogdan at the [Cyber Physical Systems Group](https://cps.usc.edu/resAreas.html).
 
 My research interests lie in the fields of control systems and machine learning. Specifically, I am interested in designing and controlling autonomous systems to improve decision-making under uncertainty. 
 
