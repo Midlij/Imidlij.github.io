@@ -11,4 +11,4 @@ I am an undergraduate student at USC advised by Prof. Paul Bogdan. I am fortunat
 
 My research interests lie in the fields of control systems and machine learning. Specifically, I am interested in designing and controlling autonomous systems to improve decision-making under uncertainty. 
 
-Please refer to my CV(files/KM_CV.pdf) for more details about my education and research experiences.
+Please refer to my CV([files/KM_CV.pdf](https://github.com/Midlij/Imidlij.github.io/blob/d8497bbc3c700b01d58766b71f8cc876877b74b5/files/KM_CV.pdf)) for more details about my education and research experiences.
