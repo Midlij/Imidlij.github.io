@@ -14,4 +14,5 @@ My research interests lie in the fields of control systems and machine learning.
 Please refer to my [CV](https://github.com/Midlij/Imidlij.github.io/blob/d8497bbc3c700b01d58766b71f8cc876877b74b5/files/KM_CV.pdf) for more details about my education and research experience.
 
 <font size="+20">Publication</font>
-<font size="+20">======</font>
+**Controls & Autonomy**
+* Emily Reed, Qi Cao, Yayoue Wang, **Khaled Alzamel**, Arian Ashourvan, Paul Bogdan, Sergio Pequito. Predicting and Preventing Seizures Onset using the Quantification of Stability of Fractional-Order Systems.
