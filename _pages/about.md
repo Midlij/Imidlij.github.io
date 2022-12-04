@@ -15,7 +15,10 @@ Please refer to my [CV](https://github.com/Midlij/Imidlij.github.io/blob/d8497bb
 
 <font size="+18">Publication</font>
 **Controls & Autonomy**
-* Emily Reed, Qi Cao, Yayoue Wang, **Khaled Alzamel**, Arian Ashourvan, Paul Bogdan, Sergio Pequito. Predicting and Preventing Seizures Onset using the Quantification of Stability of Fractional-Order Systems.
+* Emily Reed, Qi Cao, Yayoue Wang, **Khaled Alzamel**, Arian Ashourvan, Paul Bogdan, Sergio Pequito. Predicting and Preventing Seizures Onset using the Quantification of Stability of Fractional-Order Systems (Nature Communications), 2023.
 
 <font size="+18">Current Project</font>
 I am currently working on designing a fixed-wing drone to land autonomously after completing its assigned flight path. I will be using a laser altimeter to measure the altitude from the ground, and based on this information, provide predictions for the safest landing. Previously, I managed to deploy the drone and assign a flight path to it. I continue to work on the design in my free time.
+
+<font size="+18">Completed Projects</font>
+In the summer after my junior year, I joined the [Visual Intelligence and Multimedia Analytics Laboratory](https://vimal.isi.edu) at the [Information Sciences Institute](https://www.isi.edu/) as an undergraduate research intern. I was admitted as an intern to work on a state-of-the-art project for designing a computer vision algorithm for mapping a patient’s facial landmarks while performing radiation therapy. Our aim in this project was to build a facial landmarks detection system using Intel d435i cameras and install it on the TrueBeam radiotherapy system. I proposed a face tracking algorithm and implemented it on the Intel camera from scratch, and the algorithm was able to successfully pass facial landmarks detection tests that our research group performed. I learned the techniques for building reliable algorithms on machine learning platforms like Tensorflow. I utilized computer vision libraries like OpenCV to design the neural network that is responsible for processing real-time camera recording and confirming that the facial landmarks were detected and shaded.
