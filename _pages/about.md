@@ -24,10 +24,10 @@ Here is a [link](https://github.com/Midlij/midlij.github.io/blob/master/images/F
 In the summer after my junior year, I joined the [Visual Intelligence and Multimedia Analytics Laboratory](https://vimal.isi.edu) at the [Information Sciences Institute](https://www.isi.edu/) as an undergraduate research intern. I was admitted as an intern to work on a state-of-the-art project for designing a computer vision algorithm for mapping a patient’s facial landmarks while performing radiation therapy. Our aim in this project was to build a facial landmarks detection system using Intel d435i cameras and install it on the TrueBeam radiotherapy system. I proposed a face tracking algorithm and implemented it on the Intel camera from scratch, and the algorithm was able to successfully pass facial landmarks detection tests that our research group performed. I learned the techniques for building reliable algorithms on machine learning platforms like Tensorflow. I utilized computer vision libraries like OpenCV to design the neural network that is responsible for processing real-time camera recording and confirming that the facial landmarks were detected and shaded. Click [here](https://github.com/Midlij/midlij.github.io/blob/master/images/IMG_7993.png) to see my work.
 
 <font size="+18">Coursework Completed at USC</font>
-*[Introduction to Embedded Systems](https://classes.usc.edu/term-20223/course/ee-109/)
-*[Introduction to Programming for Electrical Engineers](https://classes.usc.edu/term-20223/course/ee-155/)*
-*[Introduction to Digital Circuits](https://classes.usc.edu/term-20223/course/ee-354/)
-*[Distributed Systems for the Internet of Things](https://classes.usc.edu/term-20223/course/ee-250/)
-*[Software Design for Electrical Engineers](https://classes.usc.edu/term-20223/course/ee-355/)
-*[Linear Circuits](https://classes.usc.edu/term-20223/course/ee-202/)
-*[Introduction to Probability and Statistics](https://classes.usc.edu/term-20223/course/ee-364/)
+* [Introduction to Embedded Systems](https://classes.usc.edu/term-20223/course/ee-109/)
+* [Introduction to Programming for Electrical Engineers](https://classes.usc.edu/term-20223/course/ee-155/)*
+* [Introduction to Digital Circuits](https://classes.usc.edu/term-20223/course/ee-354/)
+* [Distributed Systems for the Internet of Things](https://classes.usc.edu/term-20223/course/ee-250/)
+* [Software Design for Electrical Engineers](https://classes.usc.edu/term-20223/course/ee-355/)
+* [Linear Circuits](https://classes.usc.edu/term-20223/course/ee-202/)
+* [Introduction to Probability and Statistics](https://classes.usc.edu/term-20223/course/ee-364/)
