@@ -25,7 +25,7 @@ In the summer after my junior year, I joined the [Visual Intelligence and Multim
 
 <font size="+18">Coursework Completed at USC</font>
 * [Introduction to Embedded Systems](https://classes.usc.edu/term-20223/course/ee-109/)
-* [Introduction to Programming for Electrical Engineers](https://classes.usc.edu/term-20223/course/ee-155/)*
+* [Introduction to Programming for Electrical Engineers](https://classes.usc.edu/term-20223/course/ee-155/)
 * [Introduction to Digital Circuits](https://classes.usc.edu/term-20223/course/ee-354/)
 * [Distributed Systems for the Internet of Things](https://classes.usc.edu/term-20223/course/ee-250/)
 * [Software Design for Electrical Engineers](https://classes.usc.edu/term-20223/course/ee-355/)
