@@ -15,7 +15,7 @@ Please refer to my [CV](https://github.com/Midlij/Imidlij.github.io/blob/d8497bb
 
 <font size="+18">Publication</font>
 **Controls & Autonomy**
-* Emily Reed, Qi Cao, Yayoue Wang, **Khaled Alzamel**, Arian Ashourvan, Paul Bogdan, Sergio Pequito. Predicting and Preventing Seizures Onset using the Quantification of Stability of Fractional-Order Systems (Nature Communications), 2023.
+* Emily Reed, Qi Cao, Yayoue Wang, **Khaled Alzamel**, Arian Ashourvan, Paul Bogdan, Sergio Pequito. Predicting and Preventing Seizures Onset using the Quantification of Stability of Fractional-Order Systems (In preparation to be submitted to Nature Communications), 2023.
 
 <font size="+18">Current Project</font>
 I am currently working on designing a fixed-wing drone to land autonomously after completing its assigned flight path. I will be using a laser altimeter to measure the altitude from the ground, and based on this information, provide predictions for the safest landing. Previously, I managed to deploy the drone and assign a flight path to it. I continue to work on the design in my free time.
